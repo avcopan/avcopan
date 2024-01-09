@@ -1,7 +1,6 @@
-### Hi there 👋, I'm Andreas Copan
+Current project: [Auto-Mech](https://github.com/Auto-Mech)
 
-- 🔭 I’m currently working on [the Auto-Mech project](https://github.com/Auto-Mech)
-- 📫 If you are interested in collaborating, reach out to me through my [LinkedIn Profile](https://www.linkedin.com/in/andreas-copan/)
+About me: [LinkedIn Profile](https://www.linkedin.com/in/andreas-copan/)
 
 ### Tools
 
